@@ -55,6 +55,13 @@
 @import url("settings.css");
 @import url("animate-custom.css");
 /* 01 - General & Basic Styles */
+
+
+
+.member-hover a{
+	color: white;
+}
+
 body {
 	background-color: #FFF;
 	color: #acacac;
@@ -2260,7 +2267,7 @@ blockquote {
 /* 31 - Footer */
 /* Footer */
 #footer {
-	background-color: #eaeaea;
+	background-color: black;
 	padding: 70px 0 40px;
 }
 .footer-widget {
@@ -2280,7 +2287,7 @@ blockquote {
 }
 .widget-title h6 {
 	font-size: 15px;
-	color: black;
+	color: #f8f7f7;;
 	border-bottom: 1px solid #282828;
 	padding-bottom: 20px;
 	margin-bottom: 20px;
